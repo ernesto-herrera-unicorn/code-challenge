@@ -1,0 +1,26 @@
+{
+  "name": "flickr-feed",
+  "version": "0.0.0",
+  "private": true,
+  "description": "simple web application that reads data from Flickr's public feeds and displays the images on the page to the use",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ernesto-herrera-unicorn/code-challenge.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "javascript",
+    "flickr"
+  ],
+  "author": "Ernesto Herrera Salinas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ernesto-herrera-unicorn/code-challenge/issues"
+  },
+  "homepage": "https://github.com/ernesto-herrera-unicorn/code-challenge#readme"
+}
